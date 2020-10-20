@@ -3,7 +3,7 @@
 
 [//]: # (Image References)
 
-![image1](./test_images_output/solidWhiteCurve.jpg) "Lane Detection"
+![image1](./test_images_output/solidWhiteCurve.jpg)
 
 ---
 
